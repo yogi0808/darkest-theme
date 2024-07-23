@@ -1,0 +1,27 @@
+{
+  "name": "darkest-theme",
+  "displayName": "Darkest Theme",
+  "description": "The Darkest VS Code theme.",
+  "version": "1.0.0",
+  "publisher": "Yogi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yogi0808/darkest-theme.git"
+  },
+  "keywords": ["theme","dark theme","the darker theme","darker theme","darkest theme"],
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkest Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkest Theme-color-theme.json"
+      }
+    ]
+  }
+}
