@@ -4,6 +4,7 @@
   "description": "The Darkest VS Code theme.",
   "version": "1.0.0",
   "publisher": "Yogi08",
+  "icon": "icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/yogi0808/darkest-theme.git"
